@@ -1,0 +1,12 @@
+body {
+    background: #2e2d2d;
+}
+
+.bg-black {
+    background-color: #212020;
+}
+
+.card-project:hover {
+    border: 1px solid #efff;
+    cursor: pointer;
+}
